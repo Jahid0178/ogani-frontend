@@ -12,7 +12,7 @@ export const TheLayout = () => {
       <div>
         <Main />
       </div>
-      <div>
+      <div className="py-5">
         <Footer />
       </div>
     </div>
