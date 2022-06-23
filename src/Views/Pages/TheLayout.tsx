@@ -6,10 +6,10 @@ import { Main } from "./Common/Main";
 export const TheLayout = () => {
   return (
     <div>
-      <div>
+      <div className="py-5">
         <Header />
       </div>
-      <div>
+      <div className="py-5">
         <Main />
       </div>
       <div className="py-5">
